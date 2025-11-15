@@ -31,7 +31,7 @@ export function Gives({children}){
             }
             catch(err){
                 console.log(err);
-                alert("this is a ",err);
+                alert(err);
                 setresult(err);
 
             }

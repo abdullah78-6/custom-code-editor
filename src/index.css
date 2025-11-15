@@ -1,1 +1,4 @@
 @import "tailwindcss";
+html{
+    font-family: cursive Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
